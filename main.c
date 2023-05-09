@@ -13,3 +13,5 @@ vérifier si chiffre dans ligne
 vérifier chiffre dans bloc
 
 vérifier si il reste des case vide
+
+rejouer
